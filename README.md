@@ -29,9 +29,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 
 ## Output:
-![gaussian elimination]()
 
-![Uploading Maths for AI O8.png…]()
+<img width="1148" height="444" alt="Maths for AI O8" src="https://github.com/user-attachments/assets/b0bf9efd-a219-40a6-ad8b-e794480c811a" />
+
 
 
 
