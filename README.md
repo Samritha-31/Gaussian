@@ -25,12 +25,14 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ### Developed by:SAMRITHA G 
 ### RegisterNumber: 212225230244
 
-<img width="682" height="817" alt="Maths for AI P8" src="https://github.com/user-attachments/assets/c6f038d1-7761-4e9f-839c-23d77edf9c16" />
+<img width="768" height="839" alt="Maths for AI P6" src="https://github.com/user-attachments/assets/530c2c8d-ec64-440f-ade4-24cffc71b40d" />
+
 
 
 ## Output:
 
-<img width="1148" height="444" alt="Maths for AI O8" src="https://github.com/user-attachments/assets/b0bf9efd-a219-40a6-ad8b-e794480c811a" />
+<img width="609" height="308" alt="Maths for AI O6" src="https://github.com/user-attachments/assets/ae12449e-9a1b-4b73-8b6e-61c1ff537aa7" />
+
 
 
 
